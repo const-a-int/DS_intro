@@ -1,0 +1,15 @@
+Tue Oct 14 14:10:31 2025    profile_stats.prof
+
+         1287163 function calls (1260281 primitive calls) in 2.470 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2661 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+    395/1    0.006    0.000    2.471    2.471 {built-in method builtins.exec}
+        1    0.000    0.000    2.471    2.471 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    1.939    1.939 financial_enhanced.py:13(send_request)
+        1    0.000    0.000    1.545    1.545 /home/jyanadio/school/DataScienceBootcamp/DSB4_Package_management.ID_886513-1/src/jyanadio/lib/python3.10/site-packages/httpx/_client.py:1036(get)
+        1    0.000    0.000    1.545    1.545 /home/jyanadio/school/DataScienceBootcamp/DSB4_Package_management.ID_886513-1/src/jyanadio/lib/python3.10/site-packages/httpx/_client.py:771(request)
+
+
