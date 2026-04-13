@@ -1,0 +1,47 @@
+2025-10-07 16:11:35,989 Program started
+2025-10-07 16:11:35,989 Processing file: data.csv
+2025-10-07 16:11:35,990 Research class initialized with filename: data.csv
+2025-10-07 16:11:35,990 Start file_reader method
+2025-10-07 16:11:35,994 Sending TG message
+2025-10-07 16:11:35,994 Error sending Telegram message: name 'success' is not defined
+2025-10-07 16:11:35,994 Program completed successfully
+2025-10-07 16:12:29,058 Program started
+2025-10-07 16:12:29,058 Processing file: data.csv
+2025-10-07 16:12:29,058 Research class initialized with filename: data.csv
+2025-10-07 16:12:29,058 Start file_reader method
+2025-10-07 16:12:29,058 Sending TG message
+2025-10-07 16:12:29,059 Starting new HTTPS connection (1): api.telegram.org:443
+2025-10-07 16:12:29,475 https://api.telegram.org:443 "POST /bot8325873509:AAHaxQDUPeu6fjwLM3EVVB9-H5Be53nLsAQ/sendMessage HTTP/1.1" 400 73
+2025-10-07 16:12:29,476 TG response: 400
+2025-10-07 16:12:29,477 TG message sent failed: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+2025-10-07 16:12:29,478 Program completed successfully
+2025-10-07 16:18:17,402 Program started
+2025-10-07 16:18:17,403 Processing file: data.csv
+2025-10-07 16:18:17,403 Research class initialized with filename: data.csv
+2025-10-07 16:18:17,403 Start file_reader method
+2025-10-07 16:18:17,403 Sending TG message
+2025-10-07 16:18:17,405 Starting new HTTPS connection (1): api.telegram.org:443
+2025-10-07 16:18:17,803 https://api.telegram.org:443 "POST /bot8325873509:AAHaxQDUPeu6fjwLM3EVVB9-H5Be53nLsAQ/sendMessage HTTP/1.1" 200 310
+2025-10-07 16:18:17,804 TG response: 200
+2025-10-07 16:18:17,804 TG message sent succsessfully
+2025-10-07 16:18:17,806 Program completed successfully
+2025-10-07 16:25:21,520 Program started
+2025-10-07 16:25:21,520 Processing file: data.csv
+2025-10-07 16:25:21,520 Research class initialized with filename: data.csv
+2025-10-07 16:25:21,520 Start file_reader method
+2025-10-07 16:25:21,520 Sending TG message
+2025-10-07 16:25:21,522 Starting new HTTPS connection (1): api.telegram.org:443
+2025-10-07 16:25:23,000 https://api.telegram.org:443 "POST /bot8325873509:AAHaxQDUPeu6fjwLM3EVVB9-H5Be53nLsAQ/sendMessage HTTP/1.1" 200 310
+2025-10-07 16:25:23,001 TG response: 200
+2025-10-07 16:25:23,001 TG message sent succsessfully
+2025-10-07 16:25:23,002 Program completed successfully
+2025-10-16 16:30:36,297 Program started
+2025-10-16 16:30:36,297 Processing file: data.csv
+2025-10-16 16:30:36,297 Research class initialized with filename: data.csv
+2025-10-16 16:30:36,297 Start file_reader method
+2025-10-16 16:30:36,297 Sending TG message
+2025-10-16 16:30:36,301 Starting new HTTPS connection (1): api.telegram.org:443
+2025-10-16 16:30:36,885 https://api.telegram.org:443 "POST /bot8325873509:AAHaxQDUPeu6fjwLM3EVVB9-H5Be53nLsAQ/sendMessage HTTP/1.1" 200 310
+2025-10-16 16:30:36,885 TG response: 200
+2025-10-16 16:30:36,885 TG message sent succsessfully
+2025-10-16 16:30:36,886 Program completed successfully
